@@ -17,4 +17,4 @@ PRs and Issues are more than welcomed :)
 | RecBole                | https://github.com/RUCAIBox/RecBole                          | https://arxiv.org/pdf/2206.07351.pdf                   |
 | ReChorus               | https://github.com/THUwangcy/ReChorus                        | https://dl.acm.org/doi/abs/10.1145/3397271.3401131     |
 | QRec                   | https://github.com/Coder-Yu/QRec                             | N/A                                                    |
-
+| SELFRec                | https://github.com/Coder-Yu/SELFRec                          | https://arxiv.org/abs/2203.15876                       |
